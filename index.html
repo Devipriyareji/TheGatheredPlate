@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cute Recipe Book</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/page-flip@2/dist/js/page-flip.browser.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>📖 Recipe Book 🍓</h1>
+    </header>
+
+    <main>
+        <section id="recipe-form">
+            <h2>Submit Your Recipe</h2>
+            <input type="text" id="recipe-name" placeholder="Recipe Name" required>
+            <textarea id="recipe-ingredients" placeholder="Ingredients" required></textarea>
+            <textarea id="recipe-steps" placeholder="Steps" required></textarea>
+            <button onclick="addRecipe()">Add Recipe</button>
+        </section>
+
+        <div class="book-container">
+            <div id="recipeBook">
+                <!-- Initial Pages (Welcome & Default Recipes) -->
+                <div class="page">
+                    <h2>Welcome! 🍰</h2>
+                    <p>Swipe to see delicious recipes!</p> 
+                </div>
+                <div class="page">
+                    <h2>🥞 Strawberry Pancakes</h2>
+                    <img src="https://source.unsplash.com/200x200/?pancakes" alt="Pancakes">
+                    <p>Fluffy and sweet pancakes topped with strawberries!</p>
+                </div>
+                <div class="page">
+                    <h2>🥑 Avocado Toast</h2>
+                    <img src="https://source.unsplash.com/200x200/?avocado" alt="Avocado Toast">
+                    <p>Crispy toast with creamy avocado, salt, and pepper!</p>
+                </div>
+                <div class="page">
+                    <h2>🎉 The End!</h2>
+                    <p>Come back for more recipes!</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

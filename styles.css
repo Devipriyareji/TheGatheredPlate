@@ -1,0 +1,73 @@
+body {
+    font-family: 'Arial', sans-serif; /* You can change this to any font you like */
+    text-align: center;
+    background-color: #FFF0F5;
+}
+
+header {
+    background-color: #FFB6C1;
+    padding: 15px;
+    font-size: 28px; /* Bigger font for header */
+    color: white;
+}
+
+#recipe-form {
+    margin-bottom: 20px;
+}
+
+input, textarea, button {
+    width: 90%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #FFB6C1;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #FF69B4;
+}
+
+.book-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#recipeBook {
+    width: 700px; /* Adjusted width */
+    height: 400px; /* Adjusted height */
+    border: 5px solid #FF69B4;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
+    background-color: #FFE4E1; /* Set a light color for the book's background */
+}
+
+.page {
+    background: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.page img {
+    width: 180px; /* Adjusted image size */
+    height: 180px; /* Adjusted image size */
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+/* Font settings for the book content */
+.page h2 {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Custom font for titles */
+    color: #FF69B4; /* Pink color for the text */
+}
+
+.page p {
+    font-family: 'Arial', sans-serif; /* Standard font for text */
+    color: #5A4A42; /* Dark brown color for text */
+}
