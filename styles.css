@@ -1,15 +1,11 @@
 body {
-    font-family: 'Arial', sans-serif; /* You can change this to any font you like */
+    font-family: 'Arial', sans-serif;
     text-align: center;
-    background-color: #FFF0F5;
+    background-image: url('https://i.pinimg.com/736x/12/6e/1a/126e1a50e2a6fa0cc7f489cbefaa54a7.jpg');
 }
 
-header {
-    background-color: #FFB6C1;
-    padding: 15px;
-    font-size: 28px; /* Bigger font for header */
-    color: white;
-}
+
+
 
 #recipe-form {
     margin-bottom: 20px;
@@ -40,34 +36,62 @@ button:hover {
 }
 
 #recipeBook {
-    width: 700px; /* Adjusted width */
-    height: 400px; /* Adjusted height */
-    border: 5px solid #FF69B4;
+    width: 700px;
+    height: 600px;
+    border: 5px solid #8d8154;
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
-    background-color: #FFE4E1; /* Set a light color for the book's background */
+    background-color: #9d9167;  
 }
 
 .page {
-    background: white;
+    background: #E8D1A7;  /* Light pink background for pages */
     padding: 20px;
     text-align: center;
 }
 
 .page img {
-    width: 180px; /* Adjusted image size */
-    height: 180px; /* Adjusted image size */
+    width: 180px;
+    height: 180px;
     border-radius: 10px;
     margin: 10px 0;
 }
 
-/* Font settings for the book content */
 .page h2 {
-    font-family: 'Comic Sans MS', cursive, sans-serif; /* Custom font for titles */
-    color: #FF69B4; /* Pink color for the text */
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #90553C;  /* Dark pink for the title */
 }
 
 .page p {
-    font-family: 'Arial', sans-serif; /* Standard font for text */
-    color: #5A4A42; /* Dark brown color for text */
+    font-family: 'Arial', sans-serif;
+    color: #4B0082;  /* Dark indigo color for the text */
 }
+
+.cover-page {
+    background-image: url('https://i.pinimg.com/736x/e0/e9/78/e0e978256054db86ff9690df51d6cd8d.jpg'); /* Path to your cover image */
+    background-size: cover; /* Ensures the image fully covers the page */
+    
+    background-repeat: no-repeat; /* Prevents tiling */
+    width: 75%; /* Ensures it takes full width */
+    height: 75%; /* Ensures it takes full height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Adjust text color for visibility */
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+
+.cover-page h2 {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font for the title */
+    color: #FF69B4; /* Pink color for the title */
+}
+
+.cover-page p {
+    font-size: 20px; /* Larger font for the introductory text */
+}
+
