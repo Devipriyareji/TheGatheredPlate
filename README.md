@@ -13,7 +13,9 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+
+Welcome to The Gathered Plate 🍽️—a cozy corner of the internet where food lovers come together to share, savor, and create delicious memories! 🍲 From family favorites 👩‍🍳 to secret culinary gems 🤫, our community serves up a smorgasbord of mouthwatering recipes that bring people closer one dish at a time 🫶. Whether you're a kitchen pro 👨‍🍳 or a home-cooked newbie 🍕, there's always something new to try and share 🍪. Pull up a seat and join the feast! 🍴
+
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
