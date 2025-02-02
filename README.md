@@ -36,14 +36,6 @@ For Software:
 
 ### Implementation
 For Software: VSCode
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots 
 ![Screenshot1]
