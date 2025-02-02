@@ -51,12 +51,18 @@ For Software: VSCode
 ![pic 4](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%234.png)
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![Workflow]
+
+![pic 1](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/workflow/index.png)
+
+![pic 2](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/workflow/script.png)
+
+![pic 3](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/workflow/styles.png)
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 
 
 ## Team Contributions
