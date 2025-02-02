@@ -40,15 +40,15 @@ For Software:
 For Software: VSCode
 
 # Screenshots 
-[Screenshot1]
+#1
 ![pic 1](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%231.png)
-
+#2
 [Screenshot2]
 ![pic 2](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%232.png)
-
+#3
 [Screenshot3]
 ![pic 3](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%233.png)
-
+#4
 [Screenshot4]
 ![pic 4](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%234.png)
 
