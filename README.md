@@ -25,17 +25,17 @@ How can we make it easier for food lovers to discover new recipes, share their c
 ### The Solution
 This webpage makes it easier for people to discover new recipes, share their culinary creations, and connect with others who love food—while creating a fun and supportive space where everyone can learn and grow in the kitchen together!
 
-## Technical Details
 ### Technologies/Components Used
 For Software:
 - HTML, JavaScript, CSS
 - A page flip effect via the Page Flip library.
 - Custom styling using CSS.
 - Basic HTML elements for content structure.
+- ChatGPT
 
 
 ### Implementation
-For Software:
+For Software: VSCode
 # Installation
 [commands]
 
@@ -45,7 +45,7 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
