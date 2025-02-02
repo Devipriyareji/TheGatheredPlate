@@ -1,7 +1,9 @@
-# The Gathered Plate 🎯
+# The Gathered Plate 🍛
 
 
 ## Basic Details
+A food-lover’s playground where recipes are swapped, kitchen mishaps are laughed at, and every dish is served with a side of fun!
+
 ### Team Name: Byte Size
 
 
@@ -10,7 +12,7 @@
 - Member 2: Devipriya P.R. - CUSAT, Kochi
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/Devipriyareji/TheGatheredPlate.git
 
 ### Project Description
 
@@ -18,23 +20,19 @@ Welcome to The Gathered Plate 🍽️—a cozy corner of the internet where food
 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+How can we make it easier for food lovers to discover new recipes, share their culinary creations, and connect with others in a fun, supportive space?
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+This webpage makes it easier for people to discover new recipes, share their culinary creations, and connect with others who love food—while creating a fun and supportive space where everyone can learn and grow in the kitchen together!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, JavaScript, CSS
+- A page flip effect via the Page Flip library.
+- Custom styling using CSS.
+- Basic HTML elements for content structure.
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -92,9 +90,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Devipriya P.R. : Aesthetics of the program, Custom CSS styling
+- Fathima Rida P.S. : Webpage structure, Storage elements
+
 
 ---
 Made with ❤️ at TinkerHub
