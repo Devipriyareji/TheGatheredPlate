@@ -46,15 +46,13 @@ For Software: VSCode
 For Software:
 
 # Screenshots 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]
+https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%231.png
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%232.png
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+![Screenshot3]
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
