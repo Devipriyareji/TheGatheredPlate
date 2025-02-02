@@ -50,7 +50,7 @@ For Software:
 https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%231.png
 
 ![Screenshot2]
-
+https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%232.png
 
 ![Screenshot3]
 # Diagrams
