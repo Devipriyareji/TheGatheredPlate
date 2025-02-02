@@ -47,45 +47,22 @@ For Software:
 
 # Screenshots 
 ![Screenshot1]
-https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%231.png
+recipe pics\#1.png
 
 ![Screenshot2]
-https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%232.png
+recipe pics\#2.png
 
 ![Screenshot3]
+recipe pics\#3.png
+
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Devipriya P.R. : Aesthetics of the program, Custom CSS styling
