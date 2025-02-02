@@ -11,6 +11,13 @@ body {
     margin-bottom: 20px;
 }
 
+#recipe-form h2 {
+    font-family: 'Georgia'; 
+    color: #8d384d; 
+    font-size: 28px; /* Optional: Adjust size */
+    
+}
+
 input, textarea, button {
     width: 90%;
     padding: 10px;
@@ -19,30 +26,37 @@ input, textarea, button {
 }
 
 button {
-    background-color: #FFB6C1;
+    background-color: #E2AEA1;
     border: none;
     cursor: pointer;
     font-weight: bold;
 }
 
 button:hover {
-    background-color: #FF69B4;
+    background-color: #D09682;
 }
+
 
 .book-container {
     display: flex;
     justify-content: center;
-    margin-top: 30px;
+    align-items: center;
+    margin: 30px auto;
+    width: 700px; /* Slightly bigger than before */
+    height: 600px; /* Increased height for the container */
+    padding: 10px; /* Adds a little extra space around the book */
 }
 
 #recipeBook {
-    width: 700px;
-    height: 600px;
+    width: 900px;
+    height: 650px; /* Increased height for the book itself */
     border: 5px solid #8d8154;
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
-    background-color: #9d9167;  
+    background-color: #9d9167;
+    margin: 0 auto;
 }
+
 
 .page {
     background: #E8D1A7;  /* Light pink background for pages */
@@ -64,34 +78,41 @@ button:hover {
 
 .page p {
     font-family: 'Arial', sans-serif;
-    color: #4B0082;  /* Dark indigo color for the text */
+    color: #6c3416;  /* Dark indigo color for the text */
 }
 
 .cover-page {
-    background-image: url('https://i.pinimg.com/736x/e0/e9/78/e0e978256054db86ff9690df51d6cd8d.jpg'); /* Path to your cover image */
-    background-size: cover; /* Ensures the image fully covers the page */
-    
-    background-repeat: no-repeat; /* Prevents tiling */
-    width: 75%; /* Ensures it takes full width */
-    height: 75%; /* Ensures it takes full height */
+    background-image: url('https://i.pinimg.com/736x/e0/e9/78/e0e978256054db86ff9690df51d6cd8d.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: relative; /* Allows absolute positioning inside */
     display: flex;
-    align-items: center;
     justify-content: center;
-    color: white; /* Adjust text color for visibility */
+    align-items: center;
     text-align: center;
-    font-size: 32px;
-    font-weight: bold;
-    padding: 40px;
-    border-radius: 10px;
 }
 
+.cover-text {
+    position: absolute;
+    bottom: 50px;
+    left: 20px;
+    transform: translateX(40px); /* Slight nudge to the right */
+    width: 80%;
+    color: white;
+    text-align: center;
+}
 
 .cover-page h2 {
-    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font for the title */
-    color: #FF69B4; /* Pink color for the title */
+    font-family: 'Georgia', sans-serif;
+    color: #E8D1A7;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
 
 .cover-page p {
-    font-size: 20px; /* Larger font for the introductory text */
+    font-size: 20px;
+    margin-bottom: 10px;
 }
-
