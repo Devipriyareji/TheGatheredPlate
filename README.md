@@ -47,13 +47,16 @@ For Software:
 
 # Screenshots 
 ![Screenshot1]
-recipe pics\#1.png
+![pic 1](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%231.png)
 
 ![Screenshot2]
-recipe pics\#2.png
+![pic 2](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%232.png)
 
 ![Screenshot3]
-recipe pics\#3.png
+![pic 3](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%233.png)
+
+![Screenshot4]
+![pic 4](https://github.com/Devipriyareji/TheGatheredPlate/blob/main/recipe%20pics/%234.png)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
