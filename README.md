@@ -12,7 +12,7 @@ A food-lover’s playground where recipes are swapped, kitchen mishaps are laugh
 - Member 2: Devipriya P.R. - CUSAT, Kochi
 
 ### Hosted Project Link
-https://github.com/Devipriyareji/TheGatheredPlate.git
+https://devipriyareji.github.io/TheGatheredPlate/
 
 ### Project Description
 
@@ -36,14 +36,6 @@ For Software:
 
 ### Implementation
 For Software: VSCode
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots 
 ![Screenshot1]
